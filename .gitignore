@@ -1,4 +1,6 @@
 celeba-faces-conditional-diffusions.ipynb
 inference_old.ipynb
+inference_oldd.ipynb
+train1.ipynb
 *.pth
 /flagged
